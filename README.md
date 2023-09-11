@@ -2,7 +2,7 @@
 
 
 ## Grado Medio
-- Sistemas Microinformáticos y Redes
+- <a href="https://github.com/temarioFPInformatica/SMR"> Sistemas Microinformáticos y Redes  </a> 
 
 ## Grado Superior
 - <a href="https://github.com/temarioFPInformatica/DAM"> Desarrollo en Aplicaciones Multiplataforma  </a>
