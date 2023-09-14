@@ -1,5 +1,7 @@
 ### 
-
+<p align="center">
+<img src="https://github.com/temarioFPInformatica/temarioFPInformatica/assets/142623413/4829d88e-ffd3-4411-abdb-547e4f2611a0" width="448">
+</p>
 
 ## Grado Medio
 - <a href="https://github.com/temarioFPInformatica/SMR"> Sistemas Microinformáticos y Redes  </a> 
