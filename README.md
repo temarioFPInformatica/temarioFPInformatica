@@ -13,7 +13,7 @@
 
 ## Curso de Especialización
 - Inteligencia Artificial y Big Data
-- Ciberseguridad 
+- <a href="https://github.com/temarioFPInformatica/CETI"> Ciberseguridad </a>
 
 <!--
 **temarioFPInformatica/temarioFPInformatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
